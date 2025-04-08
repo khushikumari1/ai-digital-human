@@ -23,7 +23,7 @@ A real-time open-source AI human that interacts using natural speech, emotions, 
 | Speech-to-Text       | Whisper (openai-whisper)                   |
 | NLP & Response       | LLaMA 2 (via llama.cpp or HuggingFace)     |
 | Emotion Detection    | DistilBERT (HuggingFace)                   |
-| Text-to-Speech       | Bark by Suno / Coqui.ai                    |
+| Text-to-Speech       | Bark by Suno                               |
 | Backend              | FastAPI (Python)                           |
 | Frontend             | ReactJS                                    |
 | 3D Animation         | Blender                                    |
