@@ -7,7 +7,7 @@ A real-time open-source AI human that interacts using natural speech, emotions, 
 ## 🚀 Features
 
 - 🎙️ Real-time speech-to-text (Whisper)
-- 🧠 LLaMA 2 (or GPT) for conversational response generation
+- 🧠 LLaMA 2  for conversational response generation
 - ❤️ Emotion detection using DistilBERT
 - 🗣️ Human-like speech synthesis using Bark / Coqui TTS
 - 👤 Talking avatar integration with DeepFaceLive / Blender
@@ -26,8 +26,8 @@ A real-time open-source AI human that interacts using natural speech, emotions, 
 | Text-to-Speech       | Bark by Suno / Coqui.ai                    |
 | Backend              | FastAPI (Python)                           |
 | Frontend             | ReactJS                                    |
-| 3D Animation         | DeepFaceLive / Blender                     |
-| Deployment           | Railway, Vercel, Colab                     |
+| 3D Animation         | Blender                                    |
+| Deployment           | Vercel                                     |
 
 ---
 
