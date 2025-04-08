@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai-whisper
+transformers
+pydantic
+python-multipart
+python-dotenv
+aiofiles
+openai-whisper
+fastapi-socketio
+python-socketio
